@@ -5,5 +5,4 @@ try {
     Write-Host "Auditoría completada." -ForegroundColor Green
 } catch {
     Write-Host "No se pudo acceder al grupo. Verifica que el nombre sea 'Administrators' o 'Administradores' dependiendo del idioma del OS." -ForegroundColor Red
-}
-# Editado por Franco Benitez el 13 de marzo de 2026
+}# Desarrollado por Franco Benitez el 13 de marzo de 2026
