@@ -10,4 +10,4 @@ if (Test-Path $RutadelArchivo) {
 } else {
     Write-Host "Error: El archivo no existe en la ruta especificada." -ForegroundColor Red
 }
-# Editado por Franco Benitez el 13 de marzo de 2026
+# Desarrollado por Franco Benitez el 13 de marzo de 2026
